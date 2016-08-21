@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="img">
+    <file>LaunchLink_Logo_SM2.png</file>
+    <file>favicon.ico</file>
+    <file>LL_icon2a_clr.png</file>
+    <file>LL_icon2a.png</file>
+  </qresource>
+</RCC>
