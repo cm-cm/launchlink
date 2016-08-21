@@ -16,6 +16,12 @@
 #                                                                      #
 ########################################################################
 
+Launch information provided by Launch Library
+http://launchlibrary.net/
+
+Uses Launch Library API version 1.1
+http://launchlibrary.net/1.1/docs/api.html
+
 Created with Python 2.7.9
 https://www.python.org/downloads/release/python-279/
 
